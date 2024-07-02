@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerSessions-0162.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE_Project\5\CoopShooter\Intermediate\Build\Win64\x64\CoopShooterEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\UE_Project\5\CoopShooter\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
+"E:\UE_Project\5\CoopShooter\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Default.rc2.res"
+/OUT:"E:\UE_Project\5\CoopShooter\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\UnrealEditor-MultiplayerSessions-0162.lib"
