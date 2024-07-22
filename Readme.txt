@@ -29,5 +29,5 @@ R : 재장전
 ESC, Q : 나가기
 
 [게임실행]
-Build > Windows > CoopShooter.exe
-메인폴더 > CoopShooter 바로가기
+CoopShooter > CoopShooter.exe
+메인폴더 > CoopShooter.exe - 바로가기
