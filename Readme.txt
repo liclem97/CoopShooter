@@ -31,3 +31,10 @@ ESC, Q : 나가기
 [게임실행]
 CoopShooter > CoopShooter.exe
 메인폴더 > CoopShooter.exe - 바로가기
+
+[플레이 영상]
+https://youtu.be/W8zzBklaunE
+
+[참고]
+Unreal Engine 4 Mastery: Create Multiplayer Games with C++
+Unreal Engine 5 C++ Multiplayer Shooter
